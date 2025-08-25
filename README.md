@@ -1,3 +1,15 @@
+---
+title: Weather App
+emoji: ⛅
+colorFrom: indigo
+colorTo: blue
+sdk: streamlit
+sdk_version: "1.35.0"
+app_file: app.py
+pinned: false
+---
+
+
 # Weather Report App 
 
 This is a simple command-line Python app that fetches real-time weather information for any U.S. city using the OpenWeather API.
