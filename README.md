@@ -72,10 +72,4 @@ A minimal Streamlit app that fetches **current weather** for a city using the **
 
 ---
 
-## Make it Your Own (ideas)
-- Add a 5‑day forecast chart (use the `/forecast` API).
-- Add custom icons or background images.
-- Log recent searches in `st.session_state`.
-
----
 

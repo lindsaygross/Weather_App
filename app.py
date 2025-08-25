@@ -53,7 +53,7 @@ from dotenv import load_dotenv
 
 # --- Optional: Streamlit UI (only used when launched via `streamlit run`) ---
 try:
-    import streamlit as st
+    import streamlit as st # type: ignore
     _HAS_STREAMLIT = True
 except Exception:
     _HAS_STREAMLIT = False
